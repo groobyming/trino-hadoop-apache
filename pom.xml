@@ -8,9 +8,9 @@
         <version>7</version>
     </parent>
 
-    <groupId>io.prestosql.hadoop</groupId>
+    <groupId>com.tencent.bk.base.datalab</groupId>
     <artifactId>hadoop-apache</artifactId>
-    <version>3.2.0-9</version>
+    <version>3.2.0-9-bkbase.1</version>
 
     <name>hadoop-apache</name>
     <description>Shaded version of Apache Hadoop for Presto</description>
@@ -31,10 +31,10 @@
     </developers>
 
     <scm>
-        <connection>scm:git:git://github.com/prestosql/presto-hadoop-apache.git</connection>
-        <developerConnection>scm:git:git://github.com/prestosql/presto-hadoop-apache.git</developerConnection>
-        <url>https://github.com/prestosql/presto-hadoop-apache</url>
-        <tag>3.2.0-9</tag>
+        <connection>scm:git:git://github.com/BKBASE-Plugin/trino-hadoop-apache.git</connection>
+        <developerConnection>scm:git:git://github.com/BKBASE-Plugin/trino-hadoop-apache.git</developerConnection>
+        <url>https://github.com/BKBASE-Plugin/trino-hadoop-apache</url>
+        <tag>3.2.0-9-bkbase.1</tag>
     </scm>
 
     <properties>
